@@ -15,9 +15,13 @@ This is a small React playground where I practiced key frontend concepts using s
 
 🛠️ Tech Stack
 React 18
+
 React Router v6+
+
 JavaScript (ES6+)
+
 Vite (for fast dev)
+
 Basic CSS
 
 📚 Note
