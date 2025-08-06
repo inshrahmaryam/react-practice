@@ -14,6 +14,7 @@ This is a small React playground where I practiced key frontend concepts using s
 - 🧭 **React Router** for page navigation and route-based component rendering.
 
 🛠️ Tech Stack
+
 React 18
 
 React Router v6+
